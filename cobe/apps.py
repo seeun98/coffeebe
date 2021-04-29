@@ -1,5 +1,6 @@
 from django.apps import AppConfig
 
-
-class CobeConfig(AppConfig):
+class cobeConfig(AppConfig):
     name = 'cobe'
+
+
